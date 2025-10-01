@@ -1,6 +1,6 @@
 # Hänga Gubbe – Projekt i Python (terminal)
 
-Detta är en minimal version av klassiska **Hänga Gubbe**. Spelet körs i terminalen och är skrivet i Python.
+Detta är en version av klassiska **Hänga Gubbe**. Spelet körs i terminalen och är skrivet i Python.
 
 ## Så här spelar du
 - Starta spelet genom att köra `app.py`.
@@ -16,4 +16,5 @@ Du behöver ha **Python 3** installerat.
 I projektmappen:
 ```bash
 python app.py
+
 
